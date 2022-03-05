@@ -20,9 +20,9 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance in three different screenshots:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/websiteScreenshot1.png)
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/websiteScreenshot2.png)
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/websiteScreenshot3.png)
+![The Horiseon webpage top of webpage including main picture, header and navigation bar.](./Assets/images/websiteScreenshot1.png)
+![The Horiseon webpage middle of webpage that includes two of the content sections.](./Assets/images/websiteScreenshot2.png)
+![The Horiseon webpage end of webpage that includes two of the content sections.](./Assets/images/websiteScreenshot3.png)
 
 
 ## Deployed Application Link
