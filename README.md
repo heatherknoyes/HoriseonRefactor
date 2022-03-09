@@ -32,15 +32,13 @@ This project taught me how I can expect to potentially see websites as they come
 
 The following image shows the web application's appearance in three different screenshots:
 
-![The Horiseon webpage top of webpage including main picture, header and navigation bar.](./assets/images/websiteScreenshot1.png)
-![The Horiseon webpage middle of webpage that includes two of the content sections.](./assets/images/websiteScreenshot2.png)
-![The Horiseon webpage end of webpage that includes two of the content sections.](./assets/images/websiteScreenshot3.png)
+![The Horiseon webpage in a full screenshot.](./assets/images/websiteScreenshot.png)
 
 You can view the deployed application here: https://heatherknoyes.github.io/HoriseonRefactor/
 
 ## Credits
 
-Credit to the GT Coding Bootcamp for providing the base code for this project. 
+Credit to the GT Coding Bootcamp for providing the base code for this project.
 
 ## License
 
